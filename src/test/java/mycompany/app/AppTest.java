@@ -1,4 +1,3 @@
-
 package com.mycompany.app;
 
 import java.io.ByteArrayOutputStream;
